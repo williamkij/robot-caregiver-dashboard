@@ -87,6 +87,10 @@ Green is used for willingness, promise, and positive adoption signals.
 
 The goal is to make the dashboard feel like a data story rather than a set of disconnected charts.
 
+## Statement on Collaboration
+
+This was an individual project. I used ChatGPT as a support tool for debugging Streamlit layout issues, refining dashboard wording, checking whether the visualizations matched the assignment requirements, and improving the visual organization of the dashboard. The data selection, dashboard concept, chart choices, interpretation, and final editing decisions were my own.
+
 ## Author
 
 Yue Jin  
