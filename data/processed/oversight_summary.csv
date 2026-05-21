@@ -1,0 +1,5 @@
+variable,response,percentage
+camera_human_operator,Better,48.0
+camera_human_operator,No difference,31.9
+camera_human_operator,Refused,0.5
+camera_human_operator,Worse,19.5

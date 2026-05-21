@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+app_backup_before_restore_*.py
+.DS_Store

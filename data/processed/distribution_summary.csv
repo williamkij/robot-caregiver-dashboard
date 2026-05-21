@@ -1,0 +1,27 @@
+variable,response,percentage
+heard_before,A little,29.2
+heard_before,A lot,5.7
+heard_before,Nothing at all,65.0
+heard_before,Refused,0.1
+realistic,Extremely realistic,10.2
+realistic,Not at all realistic,11.5
+realistic,Not very realistic,29.1
+realistic,Refused,0.3
+realistic,Somewhat realistic,48.9
+enthusiastic,Not at all enthusiastic,17.9
+enthusiastic,Not too enthusiastic,37.8
+enthusiastic,Refused,0.3
+enthusiastic,Somewhat enthusiastic,34.8
+enthusiastic,Very enthusiastic,9.2
+worried,Not at all worried,9.7
+worried,Not too worried,42.7
+worried,Refused,0.3
+worried,Somewhat worried,33.1
+worried,Very worried,14.1
+willing_to_use,No,58.6
+willing_to_use,Refused,0.4
+willing_to_use,Yes,41.0
+camera_human_operator,Better,48.0
+camera_human_operator,No difference,31.9
+camera_human_operator,Refused,0.5
+camera_human_operator,Worse,19.5
