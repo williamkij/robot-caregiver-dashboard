@@ -55,6 +55,12 @@ Raw data files are stored in:
 
 data/raw/
 
+## Data Source
+
+Data source: Pew Research Center, American Trends Panel Wave 27, associated with the report *Americans' attitudes toward robot caregivers*.
+
+Reference: Smith, A., & Anderson, M. (2017, October 4). *Americans' attitudes toward robot caregivers*. Pew Research Center. https://www.pewresearch.org/internet/2017/10/04/americans-attitudes-toward-robot-caregivers/
+
 ## How to Run
 
 Install the required packages:
