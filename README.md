@@ -1,5 +1,7 @@
 # Can Care Be Automated?
 
+**Live Dashboard:** https://robot-caregiver-dashboard-pt6kzpzyeczxsxbuzq4vd9.streamlit.app/
+
 This project is a Streamlit data dashboard about how American adults imagined robot caregivers. It treats public opinion not as a simple yes or no answer, but as a movement between readiness, realism, enthusiasm, family responsibility, social consequences, reasons for acceptance and refusal, and human oversight.
 
 ## Project Overview
