@@ -892,6 +892,59 @@ st.markdown(
         color: #ff8787;
     }
 
+
+    /* Force Streamlit native controls to stay dark across light/dark/system theme */
+    div[data-baseweb="select"] > div {
+        background-color: rgba(255,255,255,0.065) !important;
+        color: #f7f7f8 !important;
+        border: 1px solid rgba(255,255,255,0.12) !important;
+        border-radius: 12px !important;
+    }
+
+    div[data-baseweb="select"] span {
+        color: #f7f7f8 !important;
+    }
+
+    div[data-baseweb="popover"] {
+        background-color: #171a23 !important;
+        color: #f7f7f8 !important;
+    }
+
+    ul[role="listbox"] {
+        background-color: #171a23 !important;
+        border: 1px solid rgba(255,255,255,0.12) !important;
+    }
+
+    li[role="option"] {
+        background-color: #171a23 !important;
+        color: #f7f7f8 !important;
+    }
+
+    li[role="option"]:hover {
+        background-color: rgba(77,171,247,0.18) !important;
+        color: #ffffff !important;
+    }
+
+    div[data-testid="stRadio"] label {
+        color: #f7f7f8 !important;
+    }
+
+    div[data-testid="stRadio"] p {
+        color: #f7f7f8 !important;
+    }
+
+    div[data-testid="stCheckbox"] label {
+        color: #f7f7f8 !important;
+    }
+
+    div[data-testid="stSlider"] label {
+        color: #f7f7f8 !important;
+    }
+
+    label, .stSelectbox label {
+        color: #d6d8df !important;
+    }
+
     </style>
     """,
     unsafe_allow_html=True
